@@ -4,15 +4,11 @@
 
   * [Description](#description)
 
+  * [Walkthrough Video](#walkthrough)
+
   * [Installation](#installation)
 
-  * [Usage](#usage)
-
- * [License](#license) 
-
-  * [Contribution](#contribution)
-
-  * [Tests](#tests)
+  * [Usage](#usage) 
 
   * [License](#license)
 
@@ -24,14 +20,14 @@ ReadMe Generator
 ## Description
 Generate a professional ReadMe using the command line interface
 
+## Walkthrough
+https://www.youtube.com/watch?v=Wk5w30fzkGM
+
 ## Installation
-Installation Instructions here
+Run npm install
 
 ## Usage 
-Usage Instructions here
-
-## Contribution
-Guidelines for contributing
+npm start to initialize app
 
 ## Tests
 Test Instructions here
@@ -43,5 +39,3 @@ Test Instructions here
 
 If you have any further questions feel free to contact me directly at jackbartlettengineering@gmail.com.
 You can find my other work at [jack-bartlett](https://github.com/jack-bartlett/)
-
-https://www.youtube.com/watch?v=Wk5w30fzkGM
